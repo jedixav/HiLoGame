@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame", "HiLoGame\HiLoGame.csproj", "{77F99C01-DE13-4865-A7E4-33FE31B926F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGameTests", "HiLoGameTests\HiLoGameTests.csproj", "{C23538ED-5096-46CD-AAFC-664CE3ABF9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F99C01-DE13-4865-A7E4-33FE31B926F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F99C01-DE13-4865-A7E4-33FE31B926F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F99C01-DE13-4865-A7E4-33FE31B926F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F99C01-DE13-4865-A7E4-33FE31B926F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23538ED-5096-46CD-AAFC-664CE3ABF9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23538ED-5096-46CD-AAFC-664CE3ABF9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23538ED-5096-46CD-AAFC-664CE3ABF9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23538ED-5096-46CD-AAFC-664CE3ABF9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EFD8687-C865-489A-9F09-D2930E568BA1}
+	EndGlobalSection
+EndGlobal
